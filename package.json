@@ -7,13 +7,16 @@
   "author": "Hojun Kim <76956067+hojunkim1@users.noreply.github.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "react-scripts start"
+  },
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0"
-  },
-  "scripts": {
-    "start": "react-scripts start"
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "redux": "^4.1.2"
   },
   "eslintConfig": {
     "extends": [
