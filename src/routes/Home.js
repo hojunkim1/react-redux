@@ -34,6 +34,7 @@ const Home = ({ toDos, dispatchAddToDo }) => {
     </div>
   );
 };
+
 const mapStateToProps = (state) => ({ toDos: state });
 
 const mapDispatchToProps = (dispatch) => ({
