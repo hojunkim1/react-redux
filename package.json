@@ -1,6 +1,6 @@
 {
   "name": "react-redux",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "redux with react",
   "main": "index.js",
   "repository": "https://github.com/hojunkim1/react-redux.git",
